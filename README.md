@@ -1,8 +1,26 @@
+# 🍽️ Restaurant Ordering Application
+
+## Overview
+This is a smart restaurant ordering system powered by **Dialogflow**, **FastAPI**, and **MySQL**. The system allows users to place, edit, and track their orders through a conversational interface while managing real-time order updates in the database.
+
+## Features
+- 🗣️ **Conversational Ordering**: Users can order meals using natural language processing (NLP) powered by Dialogflow.
+- 📝 **Edit Orders**: Modify orders before they are confirmed.
+- 📦 **Order Tracking**: Check the status of an order in real-time.
+- 🗄️ **Database Integration**: Orders are stored and managed in a MySQL database.
+- 🚀 **Fast & Scalable API**: Uses FastAPI for quick and efficient backend operations.
+
+## Technologies Used
+- **Dialogflow** - Conversational AI for handling user interactions
+- **FastAPI** - High-performance API framework
+- **MySQL** - Relational database for storing order details
+
+- **ngrok** - Expose local API for Dialogflow integration (optional)
 
 Demo
 ================================
 <div style="display: flex; gap: 20px;">
-    <video width="auto" height="auto" src="https://github.com/user-attachments/assets/568fdf1e-7365-4bab-9768-8ae18534f434" style="border: none;"></video>|<img src="https://github.com/user-attachments/assets/a690f1bb-c288-4abd-be75-bc1c7f312eda" alt="Image" style="width: auto; height: auto;">
+    <video width="auto" height="auto" src="https://github.com/user-attachments/assets/568fdf1e-7365-4bab-9768-8ae18534f434" style="border: none;"></video>|<img src="https://github.com/user-attachments/assets/e8c754d9-4dc6-4f4e-a0a5-4651363c9fd2" alt="Image" style="width: auto; height: auto;">
 </div>
 
 
