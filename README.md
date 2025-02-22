@@ -20,7 +20,7 @@ This is a smart restaurant ordering system powered by **Dialogflow**, **FastAPI*
 Demo
 ================================
 <div style="display: flex; gap: 20px;">
-    <video width="auto" height="auto" src="https://github.com/user-attachments/assets/568fdf1e-7365-4bab-9768-8ae18534f434" style="border: none;"></video>|<img src="https://github.com/user-attachments/assets/e8c754d9-4dc6-4f4e-a0a5-4651363c9fd2" alt="Image" style="width: auto; height: auto;">
+    <video width="auto" height="auto" src="https://github.com/user-attachments/assets/e83af307-995b-4c6c-8207-7bf4ca13c653" style="border: none;"></video>|<img src="https://github.com/user-attachments/assets/e8c754d9-4dc6-4f4e-a0a5-4651363c9fd2" alt="Image" style="width: auto; height: auto;">
 </div>
 
 
